@@ -6,7 +6,7 @@ A modern frontend-only React application where users can explore and subscribe t
 
 ## 🚀 Live Site
 
-🌐 [Visit Live Website]([https://your-live-site-link.com](https://subscription-box-6103b.web.app/))
+🌐 [Visit Live Website](https://subscription-box-6103b.web.app/)
 
 ---
 
