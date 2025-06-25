@@ -1,0 +1,311 @@
+[
+   {
+      "id": 1,
+      "name": "GadgetGo",
+      "thumbnail": "https://i.ibb.co.com/XfH80TVQ/GadgetGo.jpg",
+      "banner": "https://i.ibb.co.com/XfH80TVQ/GadgetGo.jpg",
+      "frequency": "monthly",
+      "price": 29.99,
+      "description": "Discover the most exciting new gadgets and tech accessories delivered to your door each month. GadgetGo curates a surprise selection of innovative tools, smart devices, and fun tech toys designed to excite tech enthusiasts and early adopters alike.",
+      "tech_category": "Electronics",
+      "features": [
+         "Latest gadgets",
+         "Smart accessories",
+         "Exclusive tech drops"
+      ],
+      "subscription_benefits": [
+         "Early access to new tech",
+         "Member-only discounts",
+         "Tech support access"
+      ],
+      "ratings": 4.7,
+      "number_of_reviews": 1200,
+      "highlight": "A must-have for tech lovers looking to explore cutting-edge gadgets every month."
+   },
+   {
+      "id": 2,
+      "name": "BingeBox",
+      "thumbnail": "https://i.ibb.co.com/r2dhnL8X/binge-box.png",
+      "banner": "https://i.ibb.co.com/r2dhnL8X/binge-box.png",
+      "frequency": "monthly",
+      "price": 19.99,
+      "description": "Get ready for the ultimate binge-watching experience with a monthly box full of themed snacks, merchandise, and curated streaming guides. BingeBox enhances your viewing nights with handpicked treats and fun fan gear for popular shows and movies.",
+      "tech_category": "Entertainment",
+      "features": ["Streaming picks", "Fan merchandise", "Movie snacks"],
+      "subscription_benefits": [
+         "Discounts on streaming services",
+         "Exclusive watch lists",
+         "Collectible items"
+      ],
+      "ratings": 4.5,
+      "number_of_reviews": 890,
+      "highlight": "Perfect for streaming fans who love snacking and collecting themed entertainment goodies."
+   },
+   {
+      "id": 3,
+      "name": "HomeEase",
+      "thumbnail": "https://i.ibb.co.com/WWnFjQVZ/Home-Ease-Real-Estate.jpg",
+      "banner": "https://i.ibb.co.com/WWnFjQVZ/Home-Ease-Real-Estate.jpg",
+      "frequency": "quarterly",
+      "price": 49.99,
+      "description": "Transform your living space with a quarterly box packed with smart kitchen tools, organizing gadgets, and tech for home maintenance. HomeEase brings functional innovation right into your home to help simplify daily chores and enhance comfort.",
+      "tech_category": "Home Appliances",
+      "features": [
+         "Smart kitchen tools",
+         "Organizing gadgets",
+         "Home maintenance tech"
+      ],
+      "subscription_benefits": [
+         "How-to guides",
+         "Exclusive product testing",
+         "Early appliance trials"
+      ],
+      "ratings": 4.6,
+      "number_of_reviews": 730,
+      "highlight": "Great for upgrading your home with smart, functional appliances and tools every quarter."
+   },
+   {
+      "id": 4,
+      "name": "Smart Home Control Interface",
+      "thumbnail": "https://i.ibb.co.com/N2nJGm04/Intelli-Home-Kit.png",
+      "banner": "https://i.ibb.co.com/N2nJGm04/Intelli-Home-Kit.png",
+      "frequency": "monthly",
+      "price": 14.99,
+      "description": "Gain centralized control over your smart home devices with a monthly subscription that delivers compatible tools and voice-controlled integrations. This interface system helps automate your living environment, boosting efficiency and convenience in every room.",
+      "tech_category": "Smart Home",
+      "features": [
+         "Home Automation Tools",
+         "Smart Home Devices",
+         "Voice-Control Integration"
+      ],
+      "subscription_benefits": [
+         "Discount on Future Smart Home Purchases",
+         "Free Shipping",
+         "Exclusive Smart Home Tutorials"
+      ],
+      "ratings": 4.8,
+      "number_of_reviews": 2000,
+      "highlight": "Ideal for users who want a simple, powerful smart home control solution with monthly upgrades."
+   },
+   {
+      "id": 5,
+      "name": "EcoLiving Box",
+      "thumbnail": "https://i.ibb.co.com/gM7hFXhq/best-systems-page-3.jpg",
+      "banner": "https://i.ibb.co.com/gM7hFXhq/best-systems-page-3.jpg",
+      "frequency": "monthly",
+      "price": 24.99,
+      "description": "Protect the planet while enhancing your smart home setup. EcoLiving Box offers sustainable smart devices, AI-powered assistants, and eco-friendly gadgets delivered monthly to promote greener living and energy-efficient habits around the home.",
+      "tech_category": "Smart Home",
+      "features": [
+         "Smart Home Devices",
+         "Cutting-edge IoT Gadgets",
+         "AI-Powered Assistants"
+      ],
+      "subscription_benefits": [
+         "Free Shipping",
+         "Early Access to Product Releases",
+         "Exclusive Smart Home Tutorials"
+      ],
+      "ratings": 4.4,
+      "number_of_reviews": 950,
+      "highlight": "Eco-conscious subscription with smart tech designed to make homes smarter and greener."
+   },
+   {
+      "id": 6,
+      "name": "FitFuel",
+      "thumbnail": "https://i.ibb.co.com/hFgqhqS8/Fit-Fuel-kitchen.jpg",
+      "banner": "https://i.ibb.co.com/hFgqhqS8/Fit-Fuel-kitchen.jpg",
+      "frequency": "monthly",
+      "price": 34.99,
+      "description": "Power your workouts with FitFuel’s monthly box of supplements, fitness gear, and healthy snacks. Whether you're training at home or the gym, this box supports your physical goals and provides extra motivation through curated tools and nutrition.",
+      "tech_category": "Health & Fitness",
+      "features": ["Supplements", "Workout guides", "Fitness gear"],
+      "subscription_benefits": [
+         "Access to virtual workouts",
+         "Nutrition plans",
+         "Progress tracker"
+      ],
+      "ratings": 4.6,
+      "number_of_reviews": 780,
+      "highlight": "A top pick for fitness enthusiasts wanting energy, support, and motivation every month."
+   },
+   {
+      "id": 7,
+      "name": "PetPal Pack",
+      "thumbnail": "https://i.ibb.co.com/RG4ZjRp2/petpal-pack.jpg",
+      "banner": "https://i.ibb.co.com/RG4ZjRp2/petpal-pack.jpg",
+      "frequency": "monthly",
+      "price": 22.99,
+      "description": "Show your furry friends some love with PetPal Pack—monthly deliveries of premium toys, grooming items, and healthy treats customized by pet type and size. Vet-approved and joy-filled, this box keeps tails wagging all month long.",
+      "tech_category": "Pet Care",
+      "features": ["Pet toys", "Organic treats", "Pet grooming essentials"],
+      "subscription_benefits": [
+         "Vet-approved items",
+         "Customized for breed/size",
+         "Birthday gifts"
+      ],
+      "ratings": 4.9,
+      "number_of_reviews": 1100,
+      "highlight": "Perfect for pet lovers who want to spoil their pets with top-quality goodies."
+   },
+   {
+      "id": 8,
+      "name": "BookNest",
+      "thumbnail": "https://i.ibb.co.com/tpMGN1fn/BookNest.jpgg",
+      "banner": "https://i.ibb.co.com/tpMGN1fn/BookNest.jpg",
+      "frequency": "monthly",
+      "price": 17.99,
+      "description": "BookNest delivers handpicked books along with charming gifts and exclusive content like author notes and early releases. Whether you're a casual reader or a bookworm, it's a monthly literary experience designed for joyful discovery.",
+      "tech_category": "Literature",
+      "features": ["Handpicked books", "Author notes", "Reading gifts"],
+      "subscription_benefits": [
+         "Book club access",
+         "Monthly discussions",
+         "Early access to new releases"
+      ],
+      "ratings": 4.8,
+      "number_of_reviews": 980,
+      "highlight": "A thoughtful choice for book lovers who enjoy curated reads and themed extras."
+   },
+   {
+      "id": 9,
+      "name": "CraftCrate",
+      "thumbnail": "https://i.ibb.co.com/Y4Y6FFC8/Craft-Crate.png",
+      "banner": "https://i.ibb.co.com/Y4Y6FFC8/Craft-Crate.png",
+      "frequency": "monthly",
+      "price": 27.99,
+      "description": "Explore your creative side with CraftCrate’s monthly DIY kits. Each box includes all the tools and materials you need to complete fun and functional art and craft projects, with instructions and tutorials to help you master new skills.",
+      "tech_category": "DIY & Hobbies",
+      "features": ["Craft materials", "Project instructions", "Bonus tools"],
+      "subscription_benefits": [
+         "Video tutorials",
+         "Community sharing",
+         "Skill-building guides"
+      ],
+      "ratings": 4.7,
+      "number_of_reviews": 640,
+      "highlight": "Fantastic for hobbyists and creators looking to learn and make something new each month."
+   },
+   {
+      "id": 10,
+      "name": "Stylify",
+      "thumbnail": "https://i.ibb.co.com/3mSwM9Ng/1-utp9-Vzsd-SXk-RGRj2qev-RXA.jpgg",
+      "banner": "https://i.ibb.co.com/3mSwM9Ng/1-utp9-Vzsd-SXk-RGRj2qev-RXA.jpg",
+      "frequency": "monthly",
+      "price": 39.99,
+      "description": "Stay stylish and confident with monthly fashion picks tailored to your preferences. Stylify includes trendy outfits, fashion accessories, and personal styling tips—plus the flexibility to return or exchange anything that doesn't suit your style.",
+      "tech_category": "Fashion & Style",
+      "features": ["Trendy outfits", "Personal styling", "Fashion accessories"],
+      "subscription_benefits": [
+         "Style consultation",
+         "Return/exchange option",
+         "Loyalty discounts"
+      ],
+      "ratings": 4.3,
+      "number_of_reviews": 570,
+      "highlight": "Great for fashion lovers seeking personalized style and flexibility each month."
+   },
+   {
+      "id": 11,
+      "name": "GreenGlow",
+      "thumbnail": "https://i.ibb.co.com/5xKzBj6x/Green-Glow.jpg",
+      "banner": "https://i.ibb.co.com/5xKzBj6x/Green-Glow.jpg",
+      "frequency": "monthly",
+      "price": 26.99,
+      "description": "Support a sustainable lifestyle with GreenGlow’s eco-conscious subscription. Receive zero-waste goods, home essentials, and helpful tips to reduce your environmental footprint. Join a passionate community that prioritizes sustainability without sacrificing quality or convenience.",
+      "tech_category": "Eco & Sustainability",
+      "features": ["Zero-waste items", "Eco home goods", "Sustainable swaps"],
+      "subscription_benefits": [
+         "Carbon-neutral shipping",
+         "Community support",
+         "Eco challenges"
+      ],
+      "ratings": 4.9,
+      "number_of_reviews": 830,
+      "highlight": "Top choice for eco-minded individuals wanting sustainable, zero-waste alternatives each month."
+   },
+   {
+      "id": 12,
+      "name": "KidsKorner",
+      "thumbnail": "https://i.ibb.co.com/yFG91zcg/Kids-Korner.png",
+      "banner": "https://i.ibb.co.com/yFG91zcg/Kids-Korner.png",
+      "frequency": "monthly",
+      "price": 25.99,
+      "description": "Designed for kids ages 3 to 10, KidsKorner provides educational toys, books, and crafts that inspire creativity and learning. Each box is age-appropriate, fun, and designed to support developmental milestones in engaging and playful ways.",
+      "tech_category": "Children & Education",
+      "features": ["Educational toys", "Story books", "Interactive crafts"],
+      "subscription_benefits": [
+         "Age-specific content",
+         "STEM activities",
+         "Parent resources"
+      ],
+      "ratings": 4.6,
+      "number_of_reviews": 1300,
+      "highlight": "A great choice for parents wanting fun and educational activities for their children."
+   },
+   {
+      "id": 13,
+      "name": "Canva Pro",
+      "thumbnail": "https://i.ibb.co.com/W4HGkKq9/canva-pro.webp",
+      "banner": "https://i.ibb.co.com/W4HGkKq9/canva-pro.webp",
+      "frequency": "monthly",
+      "price": 12.99,
+      "description": "Canva Pro empowers creatives and professionals with access to premium templates, design tools, and collaboration features. Whether you're a marketer or a designer, it makes high-quality visual creation fast, easy, and cloud-connected.",
+      "tech_category": "Design & Productivity",
+      "features": ["Premium templates", "Background remover", "Brand kits"],
+      "subscription_benefits": [
+         "Team collaboration",
+         "Stock photos and videos",
+         "Cloud storage"
+      ],
+      "ratings": 4.9,
+      "number_of_reviews": 5000,
+      "highlight": "The go-to design tool for creatives and teams needing fast, beautiful visuals every day."
+   },
+   {
+      "id": 14,
+      "name": "Coursera Plus",
+      "thumbnail": "https://i.ibb.co.com/tTPpFKvg/Coursera-Plus-Product-Update-1.png",
+      "banner": "https://i.ibb.co.com/tTPpFKvg/Coursera-Plus-Product-Update-1.png",
+      "frequency": "yearly",
+      "price": 399.0,
+      "description": "Access 7,000+ courses from top universities and companies worldwide. Coursera Plus is ideal for lifelong learners, professionals, and students seeking flexible, affordable education with official certificates and real-world value.",
+      "tech_category": "Online Learning",
+      "features": [
+         "University courses",
+         "Professional certificates",
+         "Self-paced learning"
+      ],
+      "subscription_benefits": [
+         "Unlimited enrollments",
+         "No additional fees",
+         "Official certificates"
+      ],
+      "ratings": 4.8,
+      "number_of_reviews": 8600,
+      "highlight": "Unmatched value for learners who want top-tier education at their own pace."
+   },
+   {
+      "id": 15,
+      "name": "Skillshare",
+      "thumbnail": "https://i.ibb.co.com/WqcgVbT/Top-11-Graphic-Design-Classes-on-Skillshare.webp",
+      "banner": "https://i.ibb.co.com/WqcgVbT/Top-11-Graphic-Design-Classes-on-Skillshare.webp",
+      "frequency": "monthly",
+      "price": 19.0,
+      "description": "Skillshare offers thousands of creative and business classes with real projects and community feedback. Whether you’re developing skills for fun or professional growth, Skillshare supports your journey with inspiring instructors and hands-on learning.",
+      "tech_category": "Online Learning",
+      "features": [
+         "Creative classes",
+         "Hands-on projects",
+         "Community feedback"
+      ],
+      "subscription_benefits": [
+         "Offline viewing",
+         "Exclusive workshops",
+         "Member discounts"
+      ],
+      "ratings": 4.7,
+      "number_of_reviews": 4500,
+      "highlight": "Perfect for creatives who want to keep learning with real projects and peer feedback."
+   }
+]
