@@ -1,39 +1,90 @@
 # 📦 Subscription Box Website
 
-A modern web application for curated monthly subscription boxes — featuring gadgets, food, beauty, and entertainment products. Built with React, Tailwind CSS, and DaisyUI.
+A modern frontend-only React application where users can explore and subscribe to different types of curated subscription packages such as **Electronics**, **Entertainment**, **Home Appliances**, and **Smart Home**.
 
 ---
 
-## 🚀 Features
+## 🚀 Live Site
 
-- 🧠 User login and profile management
-- 🎁 Subscription box categories: Gadgets, Food, Beauty, Entertainment
-- 📝 Editable user profile (name & photo)
-- 📄 Informative About Us page
-- 💅 Styled with Tailwind CSS and DaisyUI
-- 📱 Fully responsive design
+🌐 [Visit Live Website]([https://your-live-site-link.com](https://subscription-box-6103b.web.app/))
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Built With
 
-- **Frontend:** React, Tailwind CSS, DaisyUI
-- **Routing:** React Router DOM
-- **Icons/Styling:** DaisyUI components, Emoji, Custom CSS
+- **React** (v19)
+- **Tailwind CSS** + **DaisyUI**
+- **React Router** (v7)
+- **Vite** (for fast development)
+- **Firebase** (optional: hosting or static data)
+  
+---
+
+## ✨ Main Features
+
+- View different types of subscription packages by category
+- Explore detailed information of each package
+- Subscribe based on user preference
+- Client-side routing for a smooth experience
+- Toast notifications for user actions
+- Responsive and modern UI with tooltips and icon support
 
 ---
 
-## 🧑‍💻 Getting Started
+## 📦 Dependencies
 
-### 🔧 Prerequisites
+```json
+"dependencies": {
+  "@tailwindcss/vite": "^4.1.5",
+  "daisyui": "^5.0.35",
+  "date-fns": "^4.1.0",
+  "firebase": "^11.6.1",
+  "react": "^19.1.0",
+  "react-countup": "^6.5.3",
+  "react-dom": "^19.1.0",
+  "react-icons": "^5.5.0",
+  "react-router": "^7.5.3",
+  "react-toastify": "^11.0.5",
+  "react-tooltip": "^5.28.1",
+  "tailwindcss": "^4.1.5"
+}
 
-- Node.js and npm installed
-- Git installed
+```
 
-### 📦 Installation
+---
 
-```bash
-git clone https://github.com/yourusername/subscription-box-site.git
-cd subscription-box-site
+
+## 🧑‍💻 Local Development Setup
+
+### Follow the steps below to run the project on your local machine:
+
+### 1. Clone the repository
+```
+git clone https://github.com/your-username/subscription-box-website.git
+cd subscription-box-website
+```
+### 2. Install dependencies
+
+```
 npm install
-npm start
+```
+### 3. Start the development server
+
+```
+npm run dev
+```
+
+---
+
+## 🔗 Relevant Links
+
+- 🌐 [Live Site](https://your-live-site-link.com)  
+- 💻 [GitHub Repository](https://github.com/your-username/subscription-box-website)  
+- ⚛️ [React](https://reactjs.org/)  
+- 💨 [Tailwind CSS](https://tailwindcss.com/)  
+- 🌸 [DaisyUI](https://daisyui.com/)  
+- 🚀 [Vite](https://vitejs.dev/)  
+- 🔥 [Firebase](https://firebase.google.com/)  
+- 📦 [React Router](https://reactrouter.com/)  
+- 📅 [date-fns](https://date-fns.org/)  
+- 🔢
