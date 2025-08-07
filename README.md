@@ -31,6 +31,30 @@ A modern frontend-only React application where users can explore and subscribe t
 
 ---
 
+## ⚙️ Technologies Used
+
+### Frontend
+
+- React.js
+- Tailwind CSS + daisyUI
+- Firebase (Auth + Hosting)
+- React Router v7
+- React Icons / Heroicons
+- Lottie React
+- Day.js
+- React Toastify
+- SweetAlert2
+
+### Backend
+
+- Node.js
+- Express.js
+- MongoDB
+- dotenv
+- cors
+
+---
+
 ## 📦 Dependencies
 
 ```json
