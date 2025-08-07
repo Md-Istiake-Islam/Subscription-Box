@@ -40,10 +40,9 @@ A modern frontend-only React application where users can explore and subscribe t
 - Firebase (Auth + Hosting)
 - React Router v7
 - React Icons / Heroicons
-- Lottie React
-- Day.js
 - React Toastify
 - SweetAlert2
+- React-tooltip
 
 ### Backend
 
